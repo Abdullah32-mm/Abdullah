@@ -38,6 +38,7 @@
         <h1>Abdullah</h1>
         <h2>Registration Number: [Insert Reg No Here]</h2>
         <p>CS-350 Cloud Computing - Assignment 4</p>
+        <p>Testing CI/CD Pipeline for Assignment 4</p>
     </div>
 </body>
 </html>
